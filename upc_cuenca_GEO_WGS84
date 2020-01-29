@@ -1,0 +1,1005 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.99530392184481,
+          -2.889896375353693
+        ]
+      },
+      "properties": {
+        "marker-color": "#fa0328",
+        "marker-size": "medium",
+        "marker-symbol": "police",
+        "COD": "UPC-01",
+        "NOMBRE": "BARRIAL BLANCO",
+        "MOSTRAR": "UPC-01 BARRIAL BLANCO",
+        "XG": -78.9953039218,
+        "YG": -2.88989637535
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.01820791104008,
+          -2.8823992148412656
+        ]
+      },
+      "properties": {
+        "COD": "UPC-02",
+        "NOMBRE": "EL CEBOLLAR",
+        "MOSTRAR": "UPC-02 EL CEBOLLAR",
+        "XG": -79.018207911,
+        "YG": -2.88239921484,
+        "marker-symbol": "police",
+        "marker-color": "#fa0328",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.99466507325967,
+          -2.902539805612741
+        ]
+      },
+      "properties": {
+        "COD": "UPC-04",
+        "NOMBRE": "CDLA. HUAYNA CAPAC",
+        "MOSTRAR": "UPC-04 CDLA. HUAYNA CAPAC",
+        "XG": -78.9946650733,
+        "YG": -2.90253980561,
+        "marker-symbol": "police",
+        "marker-color": "#fa0328",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.00120453812518,
+          -2.845204373003564
+        ]
+      },
+      "properties": {
+        "COD": "UPC-06",
+        "NOMBRE": "MAYANCELA",
+        "MOSTRAR": "UPC-06 MAYANCELA",
+        "XG": -79.0012045381,
+        "YG": -2.845204373,
+        "marker-symbol": "police",
+        "marker-color": "#fa0328",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.99508382654453,
+          -2.9118795514567557
+        ]
+      },
+      "properties": {
+        "COD": "UPC-07",
+        "NOMBRE": "EL VERGEL",
+        "MOSTRAR": "UPC-07 EL VERGEL",
+        "XG": -78.9950838265,
+        "YG": -2.91187955146,
+        "marker-symbol": "police",
+        "marker-color": "#fa0328",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.06397618576855,
+          -2.91983798170584
+        ]
+      },
+      "properties": {
+        "COD": "UPC-08",
+        "NOMBRE": "BAÑOS",
+        "MOSTRAR": "UPC-08 BAÑOS",
+        "XG": -79.0639761858,
+        "YG": -2.91983798171,
+        "marker-symbol": "police",
+        "marker-color": "#fa0328",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.00537977680125,
+          -2.9246920003828736
+        ]
+      },
+      "properties": {
+        "COD": "UPC-09",
+        "NOMBRE": "TURI",
+        "MOSTRAR": "UPC-09 TURI",
+        "XG": -79.0053797768,
+        "YG": -2.92469200038,
+        "marker-symbol": "police",
+        "marker-color": "#fa0328",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.9953408418759,
+          -2.8331173541469163
+        ]
+      },
+      "properties": {
+        "COD": "UPC-10",
+        "NOMBRE": "TIXAN",
+        "MOSTRAR": "UPC-10 TIXAN",
+        "XG": -78.9953408419,
+        "YG": -2.83311735415,
+        "marker-symbol": "police",
+        "marker-color": "#fa0328",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.99322820999309,
+          -2.8520665359217285
+        ]
+      },
+      "properties": {
+        "COD": "UPC-12",
+        "NOMBRE": "SAN VICENTE DE SININCAY",
+        "MOSTRAR": "UPC-12 SAN VICENTE DE SININCAY",
+        "XG": -78.99322821,
+        "YG": -2.85206653592,
+        "marker-color": "#fa0328",
+        "marker-size": "medium",
+        "marker-symbol": "police"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.98040742063442,
+          -2.8791814193527747
+        ]
+      },
+      "properties": {
+        "COD": "UPC-46",
+        "NOMBRE": "CALDERÓN",
+        "MOSTRAR": "UPC-13 CALDERÓN",
+        "XG": -78.9804074206,
+        "YG": -2.87918141935,
+        "marker-color": "#fa0328",
+        "marker-size": "medium",
+        "marker-symbol": "police"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.05393905070704,
+          -2.8960722894119093
+        ]
+      },
+      "properties": {
+        "COD": "UPC-14",
+        "NOMBRE": "SAN JOAQUIN",
+        "MOSTRAR": "UPC-14 SAN JOAQUIN",
+        "XG": -79.0539390507,
+        "YG": -2.89607228941,
+        "marker-color": "#fa0328",
+        "marker-size": "medium",
+        "marker-symbol": "police"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.00624342643592,
+          -2.866804483874698
+        ]
+      },
+      "properties": {
+        "COD": "UPC-15",
+        "NOMBRE": "CRUCE DEL CARMEN",
+        "MOSTRAR": "UPC-15 CRUCE DEL CARMEN",
+        "XG": -79.0062434264,
+        "YG": -2.86680448387,
+        "marker-color": "#fa0328",
+        "marker-size": "medium",
+        "marker-symbol": "police"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.06662210816951,
+          -2.879986825825245
+        ]
+      },
+      "properties": {
+        "COD": "UPC-16",
+        "NOMBRE": "SANTA MARÖA DE SAYAUSÖ",
+        "MOSTRAR": "UPC-16 SANTA MARÍA DE SAYAUSÍ",
+        "XG": -79.0666221082,
+        "YG": -2.87998682583,
+        "marker-color": "#fa0328",
+        "marker-size": "medium",
+        "marker-symbol": "police"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0164259426463,
+          -2.850925222233121
+        ]
+      },
+      "properties": {
+        "COD": "UPC-17",
+        "NOMBRE": "SININCAY",
+        "MOSTRAR": "UPC-17 SININCAY",
+        "XG": -79.0164259426,
+        "YG": -2.85092522223,
+        "marker-color": "#fa0328",
+        "marker-size": "medium",
+        "marker-symbol": "police"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.98694023017903,
+          -2.907692314697178
+        ]
+      },
+      "properties": {
+        "COD": "UPC-18",
+        "NOMBRE": "EL PARAISO",
+        "MOSTRAR": "UPC-18 EL PARAISO",
+        "XG": -78.9869402302,
+        "YG": -2.9076923147,
+        "marker-color": "#fa0328",
+        "marker-size": "medium",
+        "marker-symbol": "police"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.03374142234726,
+          -2.8801300994510695
+        ]
+      },
+      "properties": {
+        "COD": "UPC-19",
+        "NOMBRE": "LAS CALERAS",
+        "MOSTRAR": "UPC-19 LAS CALERAS",
+        "XG": -79.0337414223,
+        "YG": -2.88013009945,
+        "marker-color": "#fa0328",
+        "marker-size": "medium",
+        "marker-symbol": "police"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.02701121585005,
+          -2.8454814065535916
+        ]
+      },
+      "properties": {
+        "COD": "UPC-20",
+        "NOMBRE": "SIGCHO",
+        "MOSTRAR": "UPC-20 SIGCHO",
+        "XG": -79.0270112159,
+        "YG": -2.84548140655,
+        "marker-size": "medium",
+        "marker-color": "#fa0328",
+        "marker-symbol": "police"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.01915187436073,
+          -2.8877866960684213
+        ]
+      },
+      "properties": {
+        "COD": "UPC-22",
+        "NOMBRE": "CAYAMBE",
+        "MOSTRAR": "UPC-22 CAYAMBE",
+        "XG": -79.0191518744,
+        "YG": -2.88778669607,
+        "marker-color": "#fa0328",
+        "marker-symbol": "police",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.94138761516209,
+          -2.877716697461965
+        ]
+      },
+      "properties": {
+        "COD": "UPC-24",
+        "NOMBRE": "UCUBAMBA",
+        "MOSTRAR": "UPC-24 UCUBAMBA",
+        "XG": -78.9413876152,
+        "YG": -2.87771669746,
+        "marker-color": "#fa0328",
+        "marker-symbol": "police",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.98461530589867,
+          -2.895180166886327
+        ]
+      },
+      "properties": {
+        "COD": "UPC-25",
+        "NOMBRE": "BANCO DE LA VIVIENDA",
+        "MOSTRAR": "UPC-25 BANCO DE LA VIVIENDA",
+        "XG": -78.9846153059,
+        "YG": -2.89518016689,
+        "marker-color": "#fa0328",
+        "marker-symbol": "police",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.07307927079958,
+          -2.8739514600972544
+        ]
+      },
+      "properties": {
+        "COD": "UPC-26",
+        "NOMBRE": "SAYAUSÖ",
+        "MOSTRAR": "UPC-26 SAYAUSÍ",
+        "XG": -79.0730792708,
+        "YG": -2.8739514601,
+        "marker-color": "#fa0328",
+        "marker-size": "medium",
+        "marker-symbol": "police"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.92671216180624,
+          -2.940836064292692
+        ]
+      },
+      "properties": {
+        "COD": "UPC-27",
+        "NOMBRE": "LOS LAURELES",
+        "MOSTRAR": "UPC-27 LOS LAURELES",
+        "XG": -78.9267121618,
+        "YG": -2.94083606429,
+        "marker-symbol": "police",
+        "marker-size": "medium",
+        "marker-color": "#fa0328"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.00253378509586,
+          -2.8135837442017047
+        ]
+      },
+      "properties": {
+        "COD": "UPC-28",
+        "NOMBRE": "CHIQUINTAD",
+        "MOSTRAR": "UPC-28 CHIQUINTAD",
+        "XG": -79.0025337851,
+        "YG": -2.8135837442,
+        "marker-symbol": "police",
+        "marker-size": "medium",
+        "marker-color": "#fa0328"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.97370552461776,
+          -2.8224332368927767
+        ]
+      },
+      "properties": {
+        "COD": "UPC-30",
+        "NOMBRE": "CALDERA DE SIDCAY",
+        "MOSTRAR": "UPC-30 CALDERA DE SIDCAY",
+        "XG": -78.9737055246,
+        "YG": -2.82243323689,
+        "marker-symbol": "police",
+        "marker-size": "medium",
+        "marker-color": "#fa0328"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.96324620094282,
+          -2.9033205875995733
+        ]
+      },
+      "properties": {
+        "COD": "UPC-31",
+        "NOMBRE": "RAYOLOMA",
+        "MOSTRAR": "UPC-31 RAYOLOMA",
+        "XG": -78.9632462009,
+        "YG": -2.9033205876,
+        "marker-symbol": "police",
+        "marker-size": "medium",
+        "marker-color": "#fa0328"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.97586340415121,
+          -2.791198839772956
+        ]
+      },
+      "properties": {
+        "COD": "UPC-32",
+        "NOMBRE": "SAN LUIS DE PARCOLOMA",
+        "MOSTRAR": "UPC-32 SAN LUIS DE PARCOLOMA",
+        "XG": -78.9758634042,
+        "YG": -2.79119883977,
+        "marker-symbol": "police",
+        "marker-size": "medium",
+        "marker-color": "#fa0328"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.9916927866933,
+          -2.8052992670688326
+        ]
+      },
+      "properties": {
+        "COD": "UPC-33",
+        "NOMBRE": "CHECA",
+        "MOSTRAR": "UPC-33 CHECA",
+        "XG": -78.9916927867,
+        "YG": -2.80529926707,
+        "marker-symbol": "police",
+        "marker-size": "medium",
+        "marker-color": "#fa0328"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.01144585401444,
+          -3.0867869849314573
+        ]
+      },
+      "properties": {
+        "COD": "UPC-35",
+        "NOMBRE": "ESTACIàN DE CUMBE",
+        "MOSTRAR": "UPC-35 ESTACIÓN DE CUMBE",
+        "XG": -79.011445854,
+        "YG": -3.08678698493,
+        "marker-symbol": "police",
+        "marker-size": "medium",
+        "marker-color": "#fa0328"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.97178321923748,
+          -2.845570461530106
+        ]
+      },
+      "properties": {
+        "COD": "UPC-36",
+        "NOMBRE": "LA DOLORA DE RICAURTE",
+        "MOSTRAR": "UPC-36 LA DOLORA DE RICAURTE",
+        "XG": -78.9717832192,
+        "YG": -2.84557046153,
+        "marker-symbol": "police",
+        "marker-size": "medium",
+        "marker-color": "#fa0328"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.99681522887789,
+          -2.9796227459395475
+        ]
+      },
+      "properties": {
+        "COD": "UPC-38",
+        "NOMBRE": "GUALLANZHAPA",
+        "MOSTRAR": "UPC-38 GUALLANZHAPA",
+        "XG": -78.9968152289,
+        "YG": -2.97962274594,
+        "marker-symbol": "police",
+        "marker-size": "medium",
+        "marker-color": "#fa0328"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.00199560916379,
+          -2.875988706050782
+        ]
+      },
+      "properties": {
+        "COD": "UPC-39",
+        "NOMBRE": "JAIME ROLDOS",
+        "MOSTRAR": "UPC-39 JAIME ROLDOS",
+        "XG": -79.0019956092,
+        "YG": -2.87598870605,
+        "marker-symbol": "police",
+        "marker-size": "medium",
+        "marker-color": "#fa0328"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.96328302789787,
+          -2.8613805017602116
+        ]
+      },
+      "properties": {
+        "COD": "UPC-41",
+        "NOMBRE": "RICAURTE",
+        "MOSTRAR": "UPC-41 RICAURTE",
+        "XG": -78.9632830279,
+        "YG": -2.86138050176,
+        "marker-symbol": "police",
+        "marker-size": "medium",
+        "marker-color": "#fa0328"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.909088663785,
+          -2.9700589173899816
+        ]
+      },
+      "properties": {
+        "COD": "UPC-43",
+        "NOMBRE": "LA DOLOROSA DE SANTA ANA",
+        "MOSTRAR": "UPC-43 LA DOLOROSA DE SANTA ANA",
+        "XG": -78.9090886638,
+        "YG": -2.97005891739,
+        "marker-symbol": "police",
+        "marker-size": "medium",
+        "marker-color": "#fa0328"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.97132601207991,
+          -2.889172739315712
+        ]
+      },
+      "properties": {
+        "COD": "UPC-47",
+        "NOMBRE": "EL CONDOR",
+        "MOSTRAR": "UPC-47 EL CONDOR",
+        "XG": -78.9713260121,
+        "YG": -2.88917273932,
+        "marker-symbol": "police",
+        "marker-size": "medium",
+        "marker-color": "#fa0328"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0502684087969,
+          -2.9619221237823754
+        ]
+      },
+      "properties": {
+        "COD": "UPC-48",
+        "NOMBRE": "ZHUCAY",
+        "MOSTRAR": "UPC-48 ZHUCAY",
+        "XG": -79.0502684088,
+        "YG": -2.96192212378,
+        "marker-symbol": "police",
+        "marker-size": "medium",
+        "marker-color": "#fa0328"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0299402657329,
+          -2.9195797806736388
+        ]
+      },
+      "properties": {
+        "COD": "UPC-50",
+        "NOMBRE": "EL SALADO",
+        "MOSTRAR": "UPC-50 EL SALADO",
+        "XG": -79.0299402657,
+        "YG": -2.91957978067,
+        "marker-symbol": "police",
+        "marker-size": "medium",
+        "marker-color": "#fa0328"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.02896659672545,
+          -2.898195304703282
+        ]
+      },
+      "properties": {
+        "COD": "UPC-51",
+        "NOMBRE": "EL ARENAL",
+        "MOSTRAR": "UPC-51 EL ARENAL",
+        "XG": -79.0289665967,
+        "YG": -2.8981953047,
+        "marker-symbol": "police",
+        "marker-size": "medium",
+        "marker-color": "#fa0328"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.96290388156008,
+          -2.8875554607081226
+        ]
+      },
+      "properties": {
+        "COD": "UPC-53",
+        "NOMBRE": "QUINTA CHICA",
+        "MOSTRAR": "UPC-53 QUINTA CHICA",
+        "XG": -78.9629038816,
+        "YG": -2.88755546071,
+        "marker-symbol": "police",
+        "marker-size": "medium",
+        "marker-color": "#fa0328"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.04988626406535,
+          -2.931918859556524
+        ]
+      },
+      "properties": {
+        "COD": "UPC-55",
+        "NOMBRE": "NARANCAY ALTO",
+        "MOSTRAR": "UPC-55 NARANCAY ALTO",
+        "XG": -79.0498862641,
+        "YG": -2.93191885956,
+        "marker-symbol": "police",
+        "marker-size": "medium",
+        "marker-color": "#fa0328"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.98765598231601,
+          -2.864936127955219
+        ]
+      },
+      "properties": {
+        "COD": "UPC",
+        "NOMBRE": "LAS ORQUIDEAS",
+        "MOSTRAR": "UPC LAS ORQUIDEAS",
+        "XG": -78.9876559823,
+        "YG": -2.86493612796,
+        "marker-symbol": "police",
+        "marker-size": "medium",
+        "marker-color": "#fa0328"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.96617534594455,
+          -2.9421142689425945
+        ]
+      },
+      "properties": {
+        "COD": "UPC EL VALLE",
+        "NOMBRE": "",
+        "MOSTRAR": "UPC EL VALLE",
+        "XG": -78.9661753459,
+        "YG": -2.94211426894,
+        "marker-symbol": "police",
+        "marker-size": "medium",
+        "marker-color": "#fa0328"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.93039326672812,
+          -2.8620156824033964
+        ]
+      },
+      "properties": {
+        "COD": "UPC MACHANGARA",
+        "NOMBRE": "",
+        "MOSTRAR": "UPC MACHANGARA",
+        "XG": -78.9303932667,
+        "YG": -2.8620156824,
+        "marker-symbol": "police",
+        "marker-size": "medium",
+        "marker-color": "#fa0328"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.99294535342554,
+          -2.883048762283214
+        ]
+      },
+      "properties": {
+        "COD": "UPC MIRAFLORES",
+        "NOMBRE": "",
+        "MOSTRAR": "UPC MIRAFLORES",
+        "XG": -78.9929453534,
+        "YG": -2.88304876228,
+        "marker-symbol": "police",
+        "marker-size": "medium",
+        "marker-color": "#fa0328"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.97964767844945,
+          -2.9033628306852304
+        ]
+      },
+      "properties": {
+        "COD": "UPC MONAY",
+        "NOMBRE": "",
+        "MOSTRAR": "UPC MONAY",
+        "XG": -78.9796476784,
+        "YG": -2.90336283069,
+        "marker-symbol": "police",
+        "marker-size": "medium",
+        "marker-color": "#fa0328"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.03638712514193,
+          -2.8874458543112294
+        ]
+      },
+      "properties": {
+        "COD": "UPC SAN SEBASTIAN",
+        "NOMBRE": "SAN SEBASTIAN",
+        "MOSTRAR": "UPC SAN SEBASTIAN",
+        "XG": -79.0363871251,
+        "YG": -2.88744585431,
+        "marker-symbol": "police",
+        "marker-size": "medium",
+        "marker-color": "#fa0328"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.99199046717038,
+          -2.8917921151426706
+        ]
+      },
+      "properties": {
+        "COD": "UPC TERMINAL TERRESTRE",
+        "NOMBRE": "TERMINAL TERRESTRE",
+        "MOSTRAR": "UPC TERMINAL TERRESTRE",
+        "XG": -78.9919904672,
+        "YG": -2.89179211514,
+        "marker-symbol": "police",
+        "marker-size": "medium",
+        "marker-color": "#fa0328"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.01191219566567,
+          -2.910791065274244
+        ]
+      },
+      "properties": {
+        "COD": "UPC VIRGEN DE BRONCE",
+        "NOMBRE": "",
+        "MOSTRAR": "UPC VIRGEN DE BRONCE",
+        "XG": -79.0119121957,
+        "YG": -2.91079106527,
+        "marker-symbol": "police",
+        "marker-size": "medium",
+        "marker-color": "#fa0328"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0427183040314,
+          -2.9170949275503513
+        ]
+      },
+      "properties": {
+        "COD": "UPC YANUNCAY",
+        "NOMBRE": "",
+        "MOSTRAR": "UPC YANUNCAY",
+        "XG": -79.042718304,
+        "YG": -2.91709492755,
+        "marker-symbol": "police",
+        "marker-size": "medium",
+        "marker-color": "#fa0328"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0111357408514,
+          -2.888717694298486
+        ]
+      },
+      "properties": {
+        "COD": "UPC",
+        "NOMBRE": "PARQUE DE LAS AMERICAS",
+        "MOSTRAR": "UPC LAS AMERICAS",
+        "XG": -79.0111357409,
+        "YG": -2.8887176943,
+        "marker-symbol": "police",
+        "marker-size": "medium",
+        "marker-color": "#fa0328"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.06667536702015,
+          -2.8686270036066595
+        ]
+      },
+      "properties": {
+        "COD": "UPC BUENOS AIRES",
+        "NOMBRE": "VIA A BUENOS AIRES",
+        "MOSTRAR": "UPC BUENOS AIRES",
+        "XG": -79.066675367,
+        "YG": -2.86862700361,
+        "marker-symbol": "police",
+        "marker-size": "medium",
+        "marker-color": "#fa0328"
+      }
+    }
+  ]
+}
